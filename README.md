@@ -1,0 +1,1 @@
+•	It is technically a streamlit based web Stock price predictor having listed the stocks of NSE, BSE, Nasdaq using y-finance. For the model purpose, trained model Fbprophet was used an accuracy of 96% was achieved. 
